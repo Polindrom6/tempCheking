@@ -1,0 +1,33 @@
+.container {
+  border: 1px solid #d36262;
+  border-radius: 10px;
+  padding: 15px;
+  max-width: 300px;
+  background-color: #f1cece;
+}
+h1 {
+  font-size: 18px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  margin: 5px 0;
+}
+p {
+  font-weight: bold;
+}
+input {
+  width: 50px;
+  margin-left: 10px;
+}
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: #ad6672;
+  color: rgb(230, 230, 230);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
